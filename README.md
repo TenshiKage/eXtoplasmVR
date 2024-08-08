@@ -7,4 +7,3 @@ Also after printing probably about 100 revisions over the months and refining th
 Still to do:
 
 - Make a battery protector (I currently just cover the back of the PCB facing the battery with a few layers of blue painters tape I use on my buildplate for my printer.
-fdddd8c
