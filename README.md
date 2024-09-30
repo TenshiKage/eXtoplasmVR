@@ -47,7 +47,8 @@ Hardware Needed:
 - 180KΩ - 1/4W x1 Per Main Tracker
 - JST 2.0mm Ph 2-Pin Female Connector - 1 Per Main Tracker
 - 1N5817 x2 Per Main Tracker
-- JST-PH 2.0mm Pitch 90 degree female plug x1 Per main tracker. Not strictly required if you have no intention using AUX trackers 
+- JST-PH 2.0mm Pitch 90 degree female plug x1 Per main tracker. Not strictly required if you have no intention using AUX trackers
+- 1800mAh 804040 Battery
 
 - Elastic+Velcro straps if using the standard version. 38mm width for the main trackers and 25mm for the AUX trackers
 - M3x5.7x4.6mm Threaded Knurled Brass Inserts x1 (Per Tracker - If using standard version, x3 per main tracker if using EOZ Style)
