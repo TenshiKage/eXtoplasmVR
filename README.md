@@ -11,3 +11,14 @@ Also after printing probably about 100 revisions over the months and refining th
 Still to do:
 
 - Make a battery protector (I currently just cover the back of the PCB facing the battery with a few layers of blue painters tape I use on my buildplate for my printer.
+
+Current Goals: 
+
+- Make an adaptor that allows for using the EOZ track straps or other straps intended to be used with Vive or Tundra 1/4" thread inserts.
+
+Motivation to use the EOZ style straps was because I was sick of repairing AUX cables and wanted to convert all my trackers to main trackers and have better comfort in VR for longer periods.
+
+Current issues:
+
+- Adaptor plates seem to be causing bad tracking quality and higher than excpected drift, particularly on the Chest and Hip straps when using EOZ straps, these STLs have been included in the experimental - not recommended folder. For now, tracking quality is better with the standard tracker bases and using 38mm elastic with velcro patches.
+- Motivation to make battery protector plate.
